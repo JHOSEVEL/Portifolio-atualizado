@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Ong é Por Amor",
+    "img": "./images/relogio digital",
+    "description": "Site institucional feito como trabalho voluntário para uma ong do Rio de Janeiro",
+    "tecnologias": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    "link": "https://www.eporamor.org.br/"
+  },
+  {
+    "nome": "relogio digital ",
+    "img": "./images/relogio digital",
+    "description": "Site institucional feito como trabalho voluntário para uma ong do Rio de Janeiro",
+    "tecnologias": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    "link": "file:///C:/Users/josev/OneDrive/Desktop/projetos%20do%20meu%20portifolio/relogio/index.html"
+  },
+
+]
