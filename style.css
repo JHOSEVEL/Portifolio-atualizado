@@ -566,6 +566,10 @@ body {
   display: block;
   
 }
+.novo2 h2{
+  padding: 15px;
+  color: #ffffff;
+}
 
 .projects .container {
   display: flex;
@@ -593,10 +597,18 @@ body {
   display: grid;
   grid-template-columns: 2,fr;
 }
+.novo2 p{ 
+  color: #e6e6e6;
+  grid-template-columns: 2, 1fr;
+  width: 500px;
+  margin-left: 600px;
+  margin-top: -6%;
+}
 .projeto-1 img{
   width: 100px;
   height: 90px;
   padding-bottom: 10%;
+  
 }
 .novo2 {
   width: 90%;
