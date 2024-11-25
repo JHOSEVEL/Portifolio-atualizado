@@ -593,6 +593,10 @@ body {
   margin-left: 5%;
   
 }
+.novo h2{
+  padding: 15px;
+  color: #e6e6e6;
+}
 .novo2{
   display: grid;
   grid-template-columns: 2,fr;
