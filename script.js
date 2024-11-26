@@ -209,7 +209,7 @@ function displayProjects(projects) {
 
 const sections = document.querySelectorAll('.js-scroll');
 
-function initAnimacaoScroll() {
+/*function initAnimacaoScroll() {
   // CREATE A ANIMATION ON SCROLL TO SHOW OR HIDE OBJECT
   if (sections.length) {
     const windowMetade = window.innerHeight * 0.7;
@@ -229,4 +229,4 @@ function initAnimacaoScroll() {
   }
 }
 
-initAnimacaoScroll();
+initAnimacaoScroll();*/
