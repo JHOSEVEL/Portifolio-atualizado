@@ -207,8 +207,8 @@ function displayProjects(projects) {
   });
 }
 
-const sections = document.querySelectorAll('.js-scroll');
 
+<<<<<<< HEAD
 /*function initAnimacaoScroll() {
   // CREATE A ANIMATION ON SCROLL TO SHOW OR HIDE OBJECT
   if (sections.length) {
@@ -230,3 +230,5 @@ const sections = document.querySelectorAll('.js-scroll');
 }
 
 initAnimacaoScroll();*/
+=======
+>>>>>>> 38903ee4b231994b750f4d83a22d4c82563437ed
