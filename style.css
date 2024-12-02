@@ -623,6 +623,12 @@ body {
   width: 500px;
 }
 
+.novo3{
+  display: block;
+  margin-left: -1900px;
+  margin-top: 150px;
+}
+
 .project-item {
   border-bottom: 1px solid var(--primary-color);
   margin-bottom: 2rem;
